@@ -1,0 +1,2 @@
+Python is a simple programming language for beginner
+It's poweful libary and strong_backed community make it popular
