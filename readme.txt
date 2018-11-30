@@ -2,5 +2,5 @@ Git is a version control system
 Git is free software distributed under the GPL
 Git has a mutable index called stage
 Git tracks changes of files.
-Git is the most powerful tools in these Version-Control-System
+Git is the most beautiful tools in these Version-Control-System
 
